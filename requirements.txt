@@ -1,0 +1,5 @@
+numpy
+pandas
+datasets
+transformers[torch]
+kiwipiepy
